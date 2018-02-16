@@ -1,5 +1,5 @@
 {
-  "name": "nightingale",
+  "name": "@parallaxagency/nightingale",
   "version": "1.0.0",
   "description": "NHS Leadership Front-end Framework core",
   "repository": {
