@@ -24,5 +24,5 @@
     "sass-mq": "^3.3.2",
     "stylelint": "^7.9.0"
   },
-  "main": "main.scss",
+  "main": "main.scss"
 }
