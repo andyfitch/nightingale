@@ -1,6 +1,6 @@
 {
   "name": "@parallaxagency/nightingale",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NHS Leadership Front-end Framework core",
   "repository": {
     "type": "git",
@@ -23,5 +23,6 @@
     "normalize.css": "^7.0.0",
     "sass-mq": "^3.3.2",
     "stylelint": "^7.9.0"
-  }
+  },
+  "main": "main.scss",
 }
